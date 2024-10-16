@@ -1,6 +1,6 @@
 # AI-Stock-analysis-bot
 
-This project leverages the Yahoo Finance API (via yfinance) to retrieve stock data. The data is then analyzed using Gemini AI to provide investment suggestions for investors.
+This project leverages the Yahoo Finance API (via yfinance) to retrieve stock data. The data is then analyzed using Gemini AI using Langchain to provide investment suggestions for investors.
 
 # Features
 Data Retrieval: Fetches stock market data using the Yahoo Finance API.
