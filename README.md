@@ -2,7 +2,7 @@
 
 This project leverages the Yahoo Finance API (via yfinance) to retrieve stock data. The data is then analyzed using Gemini AI using Langchain to provide investment suggestions for investors.
 
-# Features
+## Features
 
 - Data Acquisition: Fetches real-time stock data and historical trends from Yahoo Finance.
 
@@ -19,7 +19,7 @@ This project leverages the Yahoo Finance API (via yfinance) to retrieve stock da
 - Libraries: yfinance, Langchain, Gemini AI
 
 
-# Installation
+## Installation
 
 ### To get started, ensure you have the required libraries installed:
 
