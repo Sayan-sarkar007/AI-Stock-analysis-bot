@@ -8,9 +8,10 @@ Data Retrieval: Fetches stock market data using the Yahoo Finance API.
 AI Analysis: Utilizes Gemini AI for in-depth analysis of stock performance.
 
 Investment Suggestions: Provides actionable insights and recommendations for investors based on the analysis.
-Installation
 
-## To get started, ensure you have the required libraries installed:
+# Installation
+
+### To get started, ensure you have the required libraries installed:
 
 ### bash
 
