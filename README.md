@@ -1,6 +1,6 @@
 # AI-Stock-analysis-bot
 
-This project leverages the Yahoo Finance API (via yfinance) to retrieve stock data. The data is then analyzed using Gemini AI using Langchain to provide investment suggestions for investors.
+The Stock Analysis Bot is a Python-based application that leverages the Yahoo Finance API (yfinance) to retrieve stock market data. Utilizing Gemini AI for predictive analysis and Langchain for efficient data processing, this tool provides users with insightful overviews and ideation for various stocks. It is designed to help users understand market trends and gather information without serving as a financial investment tool.
 
 ## Features
 
@@ -37,3 +37,6 @@ Use the script to analyze stocks and receive suggestions.
 
 ### Example: Fetch stock data for Apple
 - data = yf.download("AAPL")
+
+## Impact
+This project enhances users' understanding of stock market dynamics, contributing to the field of AI in finance by showcasing how technology can assist in stock ideation and analysis.
