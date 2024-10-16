@@ -25,15 +25,15 @@ This project leverages the Yahoo Finance API (via yfinance) to retrieve stock da
 
 ### bash
 
-pip install yfinance
+- pip install yfinance
 
-Usage
+#### Usage
 
 Use the script to analyze stocks and receive suggestions.
 
 ### Python 
 
-import yfinance as yf
+- import yfinance as yf
 
 ### Example: Fetch stock data for Apple
-data = yf.download("AAPL")
+- data = yf.download("AAPL")
